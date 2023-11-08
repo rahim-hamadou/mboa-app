@@ -1,0 +1,72 @@
+[
+	{
+		"nom": "Doe",
+		"prenom": "John",
+		"age": 30,
+		"email": "john.doe@example.com",
+		"adresse": {
+			"rue": "123 Rue de la République",
+			"ville": "Paris",
+			"code_postal": "75001",
+			"pays": "France"
+		},
+		"interets": ["lecture", "voyages", "musique"],
+		"date_inscription": "2023-11-06T10:00:00Z"
+	},
+	{
+		"nom": "Smith",
+		"prenom": "Alice",
+		"age": 25,
+		"email": "alice.smith@example.com",
+		"adresse": {
+			"rue": "456 Elm Street",
+			"ville": "New York",
+			"code_postal": "10001",
+			"pays": "États-Unis"
+		},
+		"interets": ["sport", "cinéma", "cuisine"],
+		"date_inscription": "2023-11-06T11:15:00Z"
+	},
+	{
+		"nom": "Johnson",
+		"prenom": "Emma",
+		"age": 28,
+		"email": "emma.johnson@example.com",
+		"adresse": {
+			"rue": "789 Oak Avenue",
+			"ville": "Los Angeles",
+			"code_postal": "90001",
+			"pays": "États-Unis"
+		},
+		"interets": ["art", "fitness", "jeux vidéo"],
+		"date_inscription": "2023-11-06T12:30:00Z"
+	},
+	{
+		"nom": "Martin",
+		"prenom": "Michael",
+		"age": 35,
+		"email": "michael.martin@example.com",
+		"adresse": {
+			"rue": "10 Downing Street",
+			"ville": "Londres",
+			"code_postal": "SW1A 2AA",
+			"pays": "Royaume-Uni"
+		},
+		"interets": ["politique", "voyages", "photographie"],
+		"date_inscription": "2023-11-06T13:45:00Z"
+	},
+	{
+		"nom": "Garcia",
+		"prenom": "Sofia",
+		"age": 22,
+		"email": "sofia.garcia@example.com",
+		"adresse": {
+			"rue": "345 Calle Principal",
+			"ville": "Barcelone",
+			"code_postal": "08001",
+			"pays": "Espagne"
+		},
+		"interets": ["danse", "gastronomie", "cinéma"],
+		"date_inscription": "2023-11-06T15:00:00Z"
+	}
+]
